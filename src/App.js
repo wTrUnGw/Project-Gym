@@ -1,13 +1,13 @@
-import './App.css';
-import Header from './components/Header';
+import "./App.css";
+import Footer from "./components/Footer/Footer";
+import Header from "./components/Header";
 
 function App() {
   return (
     <div>
-      <h1>gYm dẻo dai xương cốt con hai mươi mốt</h1>
-      <Header/>
+      <Header />
+      <Footer />
     </div>
-    
   );
 }
 
